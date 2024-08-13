@@ -1,0 +1,10 @@
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\bin\Debug\pc toplama sihirbazı.exe.config
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\bin\Debug\pc toplama sihirbazı.exe
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\bin\Debug\pc toplama sihirbazı.pdb
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc toplama sihirbazı.csproj.AssemblyReference.cache
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc_toplama_sihirbazı.Form1.resources
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc_toplama_sihirbazı.Properties.Resources.resources
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc toplama sihirbazı.csproj.GenerateResource.cache
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc toplama sihirbazı.csproj.CoreCompileInputs.cache
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc toplama sihirbazı.exe
+C:\Users\silo_\source\repos\pc toplama sihirbazı\pc toplama sihirbazı\obj\Debug\pc toplama sihirbazı.pdb

@@ -1,0 +1,8 @@
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\bin\Debug\2 sayının çarpımı.exe.config
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\bin\Debug\2 sayının çarpımı.exe
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\bin\Debug\2 sayının çarpımı.pdb
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\obj\Debug\2 sayının çarpımı.csproj.AssemblyReference.cache
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\obj\Debug\2 sayının çarpımı.csproj.SuggestedBindingRedirects.cache
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\obj\Debug\2 sayının çarpımı.csproj.CoreCompileInputs.cache
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\obj\Debug\2 sayının çarpımı.exe
+D:\c#\2 sayının çarpımı\2 sayının çarpımı\obj\Debug\2 sayının çarpımı.pdb

@@ -1,0 +1,10 @@
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\bin\Debug\fiyat bilgisi.exe.config
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\bin\Debug\fiyat bilgisi.exe
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\bin\Debug\fiyat bilgisi.pdb
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat bilgisi.csproj.AssemblyReference.cache
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat_bilgisi.Form1.resources
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat_bilgisi.Properties.Resources.resources
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat bilgisi.csproj.GenerateResource.cache
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat bilgisi.csproj.CoreCompileInputs.cache
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat bilgisi.exe
+C:\Users\silo_\source\repos\fiyat bilgisi\fiyat bilgisi\obj\Debug\fiyat bilgisi.pdb

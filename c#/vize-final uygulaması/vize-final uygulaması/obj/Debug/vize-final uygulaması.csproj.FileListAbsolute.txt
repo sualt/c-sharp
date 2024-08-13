@@ -1,0 +1,10 @@
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\bin\Debug\vize-final uygulaması.exe.config
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\bin\Debug\vize-final uygulaması.exe
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\bin\Debug\vize-final uygulaması.pdb
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize-final uygulaması.csproj.AssemblyReference.cache
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize_final_uygulaması.Form1.resources
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize_final_uygulaması.Properties.Resources.resources
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize-final uygulaması.csproj.GenerateResource.cache
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize-final uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize-final uygulaması.exe
+C:\Users\silo_\source\repos\vize-final uygulaması\vize-final uygulaması\obj\Debug\vize-final uygulaması.pdb

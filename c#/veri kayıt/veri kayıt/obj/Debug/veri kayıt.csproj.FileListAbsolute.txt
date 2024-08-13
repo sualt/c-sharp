@@ -1,0 +1,10 @@
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\bin\Debug\veri kayıt.exe.config
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\bin\Debug\veri kayıt.exe
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\bin\Debug\veri kayıt.pdb
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri kayıt.csproj.AssemblyReference.cache
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri_kayıt.Form1.resources
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri_kayıt.Properties.Resources.resources
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri kayıt.csproj.GenerateResource.cache
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri kayıt.csproj.CoreCompileInputs.cache
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri kayıt.exe
+C:\Users\silo_\source\repos\veri kayıt\veri kayıt\obj\Debug\veri kayıt.pdb

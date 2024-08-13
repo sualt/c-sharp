@@ -1,0 +1,8 @@
+D:\c#\iki sayının toplamı\iki sayının toplamı\bin\Debug\iki sayının toplamı.exe.config
+D:\c#\iki sayının toplamı\iki sayının toplamı\bin\Debug\iki sayının toplamı.exe
+D:\c#\iki sayının toplamı\iki sayının toplamı\bin\Debug\iki sayının toplamı.pdb
+D:\c#\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.csproj.AssemblyReference.cache
+D:\c#\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.csproj.SuggestedBindingRedirects.cache
+D:\c#\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.csproj.CoreCompileInputs.cache
+D:\c#\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.exe
+D:\c#\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.pdb

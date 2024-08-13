@@ -1,0 +1,8 @@
+D:\c#\3 sayının toplamı\3 sayının toplamı\bin\Debug\3 sayının toplamı.exe.config
+D:\c#\3 sayının toplamı\3 sayının toplamı\bin\Debug\3 sayının toplamı.exe
+D:\c#\3 sayının toplamı\3 sayının toplamı\bin\Debug\3 sayının toplamı.pdb
+D:\c#\3 sayının toplamı\3 sayının toplamı\obj\Debug\3 sayının toplamı.csproj.AssemblyReference.cache
+D:\c#\3 sayının toplamı\3 sayının toplamı\obj\Debug\3 sayının toplamı.csproj.SuggestedBindingRedirects.cache
+D:\c#\3 sayının toplamı\3 sayının toplamı\obj\Debug\3 sayının toplamı.csproj.CoreCompileInputs.cache
+D:\c#\3 sayının toplamı\3 sayının toplamı\obj\Debug\3 sayının toplamı.exe
+D:\c#\3 sayının toplamı\3 sayının toplamı\obj\Debug\3 sayının toplamı.pdb

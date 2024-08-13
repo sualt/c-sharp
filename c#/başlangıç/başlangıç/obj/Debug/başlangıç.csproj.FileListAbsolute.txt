@@ -1,0 +1,11 @@
+D:\c#\başlangıç\başlangıç\bin\Debug\başlangıç.exe.config
+D:\c#\başlangıç\başlangıç\bin\Debug\başlangıç.exe
+D:\c#\başlangıç\başlangıç\bin\Debug\başlangıç.pdb
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.csproj.AssemblyReference.cache
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.csproj.SuggestedBindingRedirects.cache
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.Form1.resources
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.Properties.Resources.resources
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.csproj.GenerateResource.cache
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.csproj.CoreCompileInputs.cache
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.exe
+D:\c#\başlangıç\başlangıç\obj\Debug\başlangıç.pdb
